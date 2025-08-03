@@ -1,0 +1,8 @@
+# Interview Questions:
+1. What is the difference between precision and recall?
+-Precision : Out of all data points how many data points are positively predicted correctly.
+-Recall : Ability of model to predict all positive points correctly.
+
+2. What is cross-validation, and why is it important in binary classification?
+-It is used to split the dataset into training and testing data.
+-It is important in binary classification because it helps to aovid overfitting and provide    better accuracy to the model.
